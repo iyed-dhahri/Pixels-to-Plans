@@ -82,25 +82,6 @@ This repository gathers, in one place, the access links of the **27 datasets** i
 
 VHR = very high resolution; SAR = synthetic aperture radar; DEM = digital elevation model; sUAS = small unmanned aircraft system; VQA = visual question answering; Pre/Post = pre- and post-disaster imagery.
 
-## Citation
-
-If this list is useful for your work, please cite the review:
-
-```bibtex
-@article{dhahri2026pixels,
-  title   = {From Pixels to Plans: A Review of {AI}-Based Disaster Damage Assessment Techniques and Related Image Datasets},
-  author  = {Dhahri, Iyed and Golabi, Mahmoud and Azerine, Abdennour and Hammoudi, Karim and Idoumghar, Lhassane},
-  journal = {International Journal of Disaster Risk Reduction},
-  note    = {Submitted},
-  year    = {2026}
-}
-```
-
-Please also cite the original paper of every dataset you use (see the *Paper* column).
-
-## Contributing
-
-Found a broken link or a new post-disaster dataset? Please open an issue or a pull request.
 
 ## Contact
 
