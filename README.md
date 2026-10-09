@@ -3,8 +3,6 @@
 Companion repository of the review article:
 
 > **From Pixels to Plans: A Review of AI-Based Disaster Damage Assessment Techniques and Related Image Datasets**
-> Iyed Dhahri, Mahmoud Golabi, Abdennour Azerine, Karim Hammoudi, Lhassane Idoumghar
-> IRIMAS UR 7499, Université de Haute-Alsace, Mulhouse, France
 > *Submitted to the International Journal of Disaster Risk Reduction (Elsevier).*
 
 This repository gathers, in one place, the access links of the **27 datasets** identified in the review (23 post-disaster image datasets and 4 auxiliary resources), organized as in Tables 5–7 of the article:
@@ -83,6 +81,3 @@ This repository gathers, in one place, the access links of the **27 datasets** i
 VHR = very high resolution; SAR = synthetic aperture radar; DEM = digital elevation model; sUAS = small unmanned aircraft system; VQA = visual question answering; Pre/Post = pre- and post-disaster imagery.
 
 
-## Contact
-
-Iyed Dhahri – IRIMAS, Université de Haute-Alsace – iyed.dhahri@uha.fr
