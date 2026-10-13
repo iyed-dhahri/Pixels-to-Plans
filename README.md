@@ -3,7 +3,6 @@
 Companion repository of the review article:
 
 > **From Pixels to Plans: A Review of AI-Based Disaster Damage Assessment Techniques and Related Image Datasets**
-> *Submitted to the International Journal of Disaster Risk Reduction (Elsevier).*
 
 This repository gathers, in one place, the access links of the **27 datasets** identified in the review (23 post-disaster image datasets and 4 auxiliary resources), organized as in Tables 5–7 of the article:
 
